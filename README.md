@@ -1,12 +1,11 @@
-# Warp Reset
-Warp Terminal AI Reset
-Windows 10 & 11
+# Warp Terminal AI Reset
+#### <i>Windows 10 & 11</i>
 
-Resets the AI limit counter for a guest account and relaunches app while maintaining Terminal history.
+Resets the AI limit counter for a guest account and relaunches app while maintaining terminal history.<br>
 Script made in PowerShell.
 
-How to use:
-Locate if Warp is installed in under programdata or appdata
-Line 9: Replace text with your directory path to warp\data
-Line 16: Replace with directory path to warp .exe
-Run the script, it will shutdown app, clear data & analytics and rerun warp. 
+### How to use:
+Locate if Warp is installed in under 'Program Files', 'ProgramData' or 'User\User\AppData'.<br>
+Line 9: Replace in quotes with your folder path to warp\data<br>
+Line 16: Replace in quotes with folder path to warp executable<br>
+Run the script, it will shutdown Warp, clear data & analytics and rerun program. <br>
